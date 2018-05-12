@@ -14,6 +14,8 @@ creator:
 description: "Alec Forbes of Howglen is a novel by George MacDonald, first published\
   \ in 1865 and is primarily concerned with Scottish country life.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18810#Alec-Forbes-of-Howglen
 gutenberg_issued: '2006-07-12'
 gutenberg_type: Text
 identifiers:
